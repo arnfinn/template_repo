@@ -13,3 +13,4 @@ Use this repo to try these Git workflows:
 - resolve a small conflict
 - push to a remote repository and pull updates
 
+Dette er en endring også
