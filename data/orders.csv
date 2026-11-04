@@ -1,0 +1,11 @@
+customer_id,region,product,quantity,unit_price,sales_date
+101,North,Chair,12,89.50,2026-01-12
+102,South,Desk,5,245.00,2026-01-14
+103,East,Lamp,20,32.25,2026-01-15
+104,West,Monitor,8,180.00,2026-01-18
+105,North,Chair,15,89.50,2026-01-20
+106,South,Storage,6,149.00,2026-01-22
+107,East,Desk,4,245.00,2026-01-24
+108,West,Lamp,25,32.25,2026-01-26
+109,North,Monitor,10,180.00,2026-01-28
+110,South,Chair,18,89.50,2026-01-30
